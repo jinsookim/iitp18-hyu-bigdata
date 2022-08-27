@@ -1,22 +1,6 @@
 
 # Project-driven BigData Expert Training Course
 
-<img src="./images/img_front_readme_hyu.png">
-
-## Innovation Growth Intensive Training
-- Python Programming Basics
-- Data Processing and Analysis
-- Web Cralwling
-- Natural Language Processing
-
-cf. Machine Learning & Deep Learning
-<hr>
-
-## Notice 
-* [교육자료] : GITHUB / iitp18-hyu-bigdata
-* [공유폴더] : \\192.15.206.251\100000100$
-* [보안PW]   : multicampus1! 또는 multicampus2!
-
 <hr>
 
 ## Python Install and IDLE 
