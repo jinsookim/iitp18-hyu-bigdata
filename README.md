@@ -1,9 +1,6 @@
 
 # Project-driven BigData Expert Training Course
 
-<div align='right'><font size=2 color='gray'>Python For BigData @ <font color='blue'><a href='https://www.facebook.com/jskim.kr'>FB / jskim.kr</a></font>, [김진수](bigpycraft@gmail.com)</font></div>
-<br>
-
 <img src="./images/img_front_readme_hyu.png">
 
 ## Innovation Growth Intensive Training
